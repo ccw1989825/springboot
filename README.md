@@ -1,2 +1,2 @@
 # springboot
-springboot demo
+This is a springboot learning demo project.
